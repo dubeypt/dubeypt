@@ -108,9 +108,9 @@ Data Analyst with hands-on expertise in **Python, SQL, Machine Learning, and Pow
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeypt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeypt&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeypt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeypt&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
