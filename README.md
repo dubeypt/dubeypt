@@ -1,85 +1,117 @@
-# 👋 Hi, I’m Aditya Dubey (@dubeypt)
+# 👋 Hi, I'm Aditya Dubey
 
-🎯 Data Science & Machine Learning Learner (Fresher)  
-📍 India  
+### Data Analyst | Python • SQL • Power BI • ML | IIT Roorkee Certified
 
-I am currently learning how to work with data — from raw datasets to insights — using Python and SQL.
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 ptaddubey@gmail.com &nbsp;|&nbsp; 🟢 Open to Work
 
----
-
-## 🧠 About Me
-
-- I am a **fresher** learning Data Science step by step  
-- I enjoy working on **Exploratory Data Analysis (EDA)** and understanding patterns in data  
-- I am focusing on **practical learning through projects**, not theory only  
-- I try to clearly explain **what the data is saying**, not just plot graphs  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pt-adityadubey)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/dubeypt)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ptaddubey@gmail.com)
 
 ---
 
-## 🛠️ Skills I Actively Use
+## 🚀 About Me
 
-### 💻 Programming & Databases
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Data Analyst with hands-on expertise in **Python, SQL, Machine Learning, and Power BI**. Built production-grade analytics systems analyzing **780K+ records** and delivering actionable business insights.
+
+- 🔭 Built **Financial Risk Analytics System** — VaR, CVaR, Monte Carlo, ML Signal Generation
+- 📊 Deployed **Power BI Dashboard** tracking £17.37M revenue across 780K+ transactions
+- 🤖 Trained **ML models** achieving R² = 0.89 and AUC = 0.64 (Walk-Forward CV)
+- 🎓 Certified in **AI & Data Science — IIT Roorkee (iHub)**
+- 💼 Seeking: **Data Analyst | Business Analyst | ML Intern** roles in Bengaluru
 
 ---
 
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
+## 🛠️ Tech Stack
+
+**Languages & Libraries**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+**Tools**
 
-### 🤖 Machine Learning (Learning Stage)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-learning?style=for-the-badge)
-
----
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 📂 What You’ll Find in My Repositories
+## 📂 Featured Projects
 
-- 📌 Exploratory Data Analysis (EDA) notebooks  
-- 📌 Customer Churn dataset analysis  
-- 📌 Credit Score prediction (learning projects)  
-- 📌 Python & SQL practice notebooks  
+### 🏦 [Financial Risk Analytics & ML Signal System](https://github.com/dubeypt/Financial-Risk-Analytics-ML-System)
+> Production-grade quantitative analytics system across 8 stocks (504 trading days)
 
-> These projects focus on **data cleaning, understanding variables, and writing insights**.
-
----
-
-## 📈 What I’m Currently Learning
-
-- Better **EDA techniques**  
-- **Feature engineering** for ML models  
-- How to explain **model output in simple business language**  
+- ✅ VaR (95/99%) & CVaR — Basel III standard
+- ✅ Efficient Frontier — 60 portfolios, Max Sharpe = 0.499
+- ✅ Random Forest ML Signal — AUC 0.64 (Walk-Forward CV)
+- ✅ Monte Carlo Simulation — 500 paths, 60-day horizon
+- ✅ Interactive 6-tab Streamlit Dashboard
+- **Stack:** Python • Scikit-learn • Streamlit • Plotly • SQL
 
 ---
 
-## 📫 Connect
+### 📊 [Customer Segmentation Dashboard — Power BI](https://github.com/dubeypt/PowerBI-Customer-Segmentation)
+> RFM analysis on 780K+ e-commerce transactions
 
-- GitHub: https://github.com/dubeypt  
-
----
-
-## ⚠️ Honest Note
-
-I am still learning and improving every day.  
-This GitHub profile reflects my **learning journey**, not industry experience.
+- ✅ £17.37M revenue tracked across customer cohorts
+- ✅ 51% churn rate identified with drill-down analytics
+- ✅ 20+ DAX measures — region & time-period analysis
+- **Stack:** Power BI • DAX • SQL • Python
 
 ---
 
-⭐ If you’re also learning Data Science, feel free to explore and learn along.
+### 📈 [Revenue Prediction using Machine Learning](https://github.com/dubeypt/Revenue-Prediction-using-Machine-Learning)
+> End-to-end ML pipeline for restaurant revenue forecasting
 
+- ✅ R² = 0.89 on held-out test data
+- ✅ +15% accuracy via systematic feature engineering
+- ✅ Random Forest selected via 5-fold cross-validation
+- **Stack:** Python • Scikit-learn • Pandas • Matplotlib
+
+---
+
+### 🔧 [Data AutoMerge Clean Report](https://github.com/dubeypt/Data-AutoMerge-Clean-Report)
+> Automates the most repetitive part of data work
+
+- ✅ Merges multiple CSV/Excel files automatically
+- ✅ Handles missing values & removes duplicates
+- ✅ Generates summary reports with visualizations
+- **Stack:** Python • Pandas • Matplotlib • Glob
+
+---
+
+## 📜 Certifications
+
+- 🎓 **AI & Data Science** — IIT Roorkee (iHub) *(2025–2026)*
+- 📊 **Google Data Analytics** — Coursera
+- 🗄️ **Microsoft SQL Certification**
+- 📋 **Prepare, Process & Analyze Data** — Google
+
+---
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeypt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeypt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff)
+
+---
+
+*💼 Open to Data Analyst | Business Analyst | ML Intern roles in Bengaluru*
